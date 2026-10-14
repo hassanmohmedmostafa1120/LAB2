@@ -1,1 +1,1 @@
-![Image](https://i.pinimg.com/736x/05/6c/2b/056c2b19435ff9901bddddc9881fc52d.jpg)
+![Image](/home/hassan/Documents/Lab2/img.jpeg)
