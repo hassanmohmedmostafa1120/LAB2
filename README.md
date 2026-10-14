@@ -61,8 +61,8 @@ git tag -d v1.7
 
 Download an image and put its path into README.
 
-```markdown
+
 ![Image](img.jpeg) 
-```
+
 
 
