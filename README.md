@@ -1,1 +1,1 @@
-![Image](/home/hassan/Documents/Lab2/img.jpeg)
+![Image](img.jpeg)
